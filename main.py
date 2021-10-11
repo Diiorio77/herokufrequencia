@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import pickle
 
 
-boost =  pickle.load(open("D:/data_science/deploy_frequencia/modelo.sav", "rb"))
+boost =  pickle.load(open("modelo.sav", "rb"))
 
 colunas = ["maximo", "minimo", "frequencia", "aumento_frequencia"]
 
