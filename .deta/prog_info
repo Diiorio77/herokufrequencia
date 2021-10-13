@@ -1,1 +1,0 @@
-{"id":"8c54d69e-54eb-4653-a4c9-152b7bfe46d6","space":11803,"runtime":"python3.9","name":"deploy_frequencia","path":"dlb2ew","project":"b0ngao1z","account":"144798365827","region":"sa-east-1","deps":["flask"],"envs":null,"public":true,"log_level":"debug","cron":""}

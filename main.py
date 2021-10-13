@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def funcao():
-    return "API Para Retorno das previsões do modelo de regressão"
+    return "Camus de Aquário"
 
 
 @app.route('/previsao/', methods=['POST'])
